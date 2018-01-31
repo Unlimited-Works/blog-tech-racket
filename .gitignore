@@ -1,0 +1,7 @@
+
+*.rkt~
+compiled
+
+
+.DS_Store
+*.swp
